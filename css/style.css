@@ -1,0 +1,54 @@
+/* Base */
+body {
+	margin: 0;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+ul, nav {
+	margin: 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+/* Layout */
+.l-constrained {
+	max-width: 1150px;
+	margin: 0 auto;
+}
+
+.l-header {}
+
+/* Modules */
+.header-logo {}
+
+.site-nav {}
+
+/* Products */
+.product-gallery {}
+.product-item {}
+.product-item__img {}
+.product-item__title {}
+.product-item__body {}
+.product-item__price{}
+.product-item__buttons{}
+
+/* Buttons */
+.btn {}
+.btn--primary {}
+
+/* Startpage */
+.startpage-hero {}
+.startpage-banner {}
+
+/* Helpers */
+.is-hidden {
+	display: none;
+}
+.is-visible {
+	display: block;
+}
