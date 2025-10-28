@@ -20,7 +20,7 @@
 		<div class="l-header">
 			<div class="l-constrained">
 				<div class="header-logo">
-					<img src="/images/logo.png" alt="testing testing yo">
+					<img src="/images/logo.png">
 				</div>
 				<ul class="nav site-nav">
 					<?php
